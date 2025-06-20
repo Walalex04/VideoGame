@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo8 -N"C:\Users\wal26\OneDrive\Documentos\Universidad\sistemas-embebidos\taller_en_grupo\Source\PIC16F887\deber.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\wal26\OneDrive\Documentos\Universidad\sistemas-embebidos\taller_en_grupo\Source\PIC16F887\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "deber.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	deber.c
+diagnostics: 196	123	Compiled Successfully	deber.c
+diagnostics: 0	127	All files Compiled in 188 ms	 
+hint: 0	1144	Used RAM (bytes): 5 (1%)  Free RAM (bytes): 347 (99%)	Used RAM (bytes): 5 (1%)  Free RAM (bytes): 347 (99%)
+hint: 0	1144	Used ROM (program words): 762 (9%)  Free ROM (program words): 7430 (91%)	Used ROM (program words): 762 (9%)  Free ROM (program words): 7430 (91%)
+diagnostics: 0	125	Project Linked Successfully	deber.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'deber.mcppi' completed: 359 ms	 
+diagnostics: 0	103	Finished successfully: 19 Jun 2025, 19:43:39	deber.mcppi
